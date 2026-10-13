@@ -60,7 +60,7 @@ This populates `data/raw/` with the nine source files. The notebooks write their
 ## How to Run
 
 ```bash
-git clone https://github.com/guilhermehrsilva/clv-segmentation-engine.git
+git clone https://github.com/guilhermerissondev/clv-segmentation-engine.git
 cd clv-segmentation-engine
 pip install -r requirements.txt
 python scripts/baixar_dados.py
